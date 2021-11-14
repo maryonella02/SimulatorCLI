@@ -5,11 +5,11 @@
  Please, run the code to understand what it means.
 
 The commands available are:
-
+```
 'clear' -- clears the CLI simulator window
 'exit' -- closes the CLI simulator window
 'help' -- returns the list of available commands
 'home' -- returns to start
-
+```
 I think that a better version of this will be to add commands description, initial banner and message for wrong command from file, to have the possibility to configure easily.
 
